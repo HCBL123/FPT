@@ -1,0 +1,5 @@
+Nhap n (so luong chu so )
+Nhap mang a
+Xét nếu phàn tử a đầu tiên khác t ( t = 1, t cộng 1 nếu điều kiện được thoả mãn)
+Trừ a cho 1 cho đến khi a = t
+Xuất ra số mex = số lớn nhất của a + 1;
